@@ -108,6 +108,17 @@ I am interested in graduate opportunities, collaborative data projects, and conv
 - [LinkedIn](https://www.linkedin.com/in/yazeedalzoubi)
 - [Email](mailto:Yazeedalzoubiii684@outlook.com)
 
+---
+
+## Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YazeedAlzoubi05/YazeedAlzoubi05/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/YazeedAlzoubi05/YazeedAlzoubi05/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:0E7490,100:0F172A&height=110&section=footer" alt="Footer" />
 </p>
