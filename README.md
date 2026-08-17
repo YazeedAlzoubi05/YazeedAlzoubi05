@@ -21,7 +21,6 @@ I am a third-year **Computer Science student at Jadara University** in Jordan, e
 - Focused on **data analysis, machine learning, and product analytics**
 - Experienced with exploratory analysis, feature engineering, visualization, and model evaluation
 - Building projects across financial fraud, e-commerce, education, and personal finance
-- Open to **2027 graduate opportunities** in data analytics and data science
 
 ## Technical Toolkit
 
